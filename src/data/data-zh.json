@@ -1,0 +1,163 @@
+{
+  "time": "Wed Mar 31 2021 16:36:59 GMT+0800 (China Standard Time)",
+  "meta": {
+    "author": "Chen LIN",
+    "keywords": "简历, 前端, javascript, typescript, 开发, 工程师",
+    "subject": "Chen LIN 的简历",
+    "title": "简历"
+  },
+  "repo": {
+    "label": "欢迎访问我的 Notion",
+    "link": "https://www.notion.so/hentaimiao/Technical-Article-012936da64b4406d987f926f2e7c1ce0"
+  },
+  "header": {
+    "name": "徐裕程",
+    "role": "前端工程师",
+    "contacts": [
+      "中国 上海",
+      "(+86) 178-0624-2790",
+      "[hentaimiaomiao@gmail.com](mailto:hentaimiaomiao@gmail.com)",
+      "<https://github.com/hentaimiao>",
+      "<https://hentaimiao.me>"
+    ]
+  },
+  "edu": {
+    "title": "教育背景",
+    "degree": "计算机科学与技术 工学学士",
+    "college": "青岛理工大学",
+    "city": "中国 青岛",
+    "date": "2015 年 9 月 - 2019 年 6 月"
+  },
+  "skills": {
+    "title": "技能",
+    "skills": [
+      {
+        "label": "语言",
+        "list": "JavaScript（2 年）, TypeScript（1 年）, HTML, CSS"
+      },
+      {
+        "label": "编程范式",
+        "list": "FP, FRP, OOP, TDD, DDD"
+      },
+      {
+        "label": "技术栈",
+        "list": "React, hooks, Redux, Lodash, Alloy-ESLint, TailwindCSS, CSS-in-JS, Node.js, Webpack, Rollup, Jest, testing-library, monorepo …"
+      },
+      {
+        "label": "开发工具",
+        "list": "Webstorm, Git, Bash"
+      }
+    ]
+  },
+  "traits": {
+    "title": "亮点",
+    "traits": [
+      {
+        "label": "像素眼",
+        "list": "根据 Visual Inspector Chrome 插件走查还原设计稿"
+      },
+      {
+        "label": "强迫症",
+        "list": "注重代码 & 提交规范和领域边界，乐于重构代码"
+      },
+      {
+        "label": "乐于分享",
+        "list": "喜爱 CodeReview 和技术分享"
+      },
+      {
+        "label": "Notioneer",
+        "list": "逐渐学习使用 Notion 管理我的生活"
+      }
+    ]
+  },
+  "works": {
+    "title": "工作经历",
+    "works": [
+      {
+        "team": "上海意派信息科技有限公司",
+        "date": "2020 年 6 月 - 至今",
+        "role": "前端工程师 研发部门",
+        "desc": "「意派 Epub360」是一家提供页面在线交互设计制作工具的互联网公司",
+        "tasks": [
+          "官网项目功能开发（SSR）与编辑器组件开发",
+          "银行驻场项目（8 个月）低代码及工作流平台建设",
+          "参与团队规范和组件化建设",
+          "参与文本编辑器技术选型"
+        ]
+      },
+      {
+        "team": "考公",
+        "date": "2019 年 6 月 - 2020 年 6 月",
+        "role": "待业状态",
+        "desc": "尝试留在家乡发展，失败的尝试",
+        "tasks": [
+          "盐城市亭湖区人民法院：6 个月时间备考，12 月考试，120+ 分，上岸失败",
+          "受新冠疫情影响，延迟到四月来上海找工作"
+        ]
+      },
+      {
+        "team": "盐城美创网络科技有限公司",
+        "date": "2018 年 10 月 - 2019 年 6 月",
+        "role": "前端工程师 研发部门",
+        "desc": "「意派 Epub360」是一家基于阿里速卖通平台提供设计工具的互联网公司",
+        "tasks": [
+          "阿里国际站模板开发",
+          "参与维护公司后端接口（ThinkPHP）",
+          "海报编辑器「小语言」项目搭建功能开发（Vue3）"
+        ]
+      }
+    ]
+  },
+  "projs": {
+    "title": "项目经验",
+    "projs": [
+      {
+        "proj": "富文本项目搭建",
+        "date": "2021 年 3 月 - 2021 年 4 月",
+        "tasks": [
+          "比较了市面上主流编辑器（石墨、语雀、飞书）， 选型 Slate",
+          "用 Next.js 搭建项目， fork Slate， 对 slate-react 试图模块进行定制"
+        ]
+      },
+      {
+        "proj": "通用工作流 BPM 开发",
+        "date": "2020 年 11 月 - 2021 年 2 月",
+        "tasks": [
+          "用 React、Hooks 和 TypeScript 开发 BPM 节点配置面板",
+          "- 通用人员机构组件",
+          "- 工作流时间轴组件",
+          "- 配置面板复杂表单， 集成组件引用， 数据校验",
+          "优化状态管理， 使用 useContext 精简替换 Redux， 形成原子化状管",
+          "用 storybook 为组件开发添加文档支持"
+        ]
+      },
+      {
+        "proj": "低代码平台 LCDP 建设",
+        "date": "2020 年 7 月- 2020 年 10 月",
+        "tasks": [
+          "参与 core 组的业务功能开发（操作界面不同模块的 CRUD）",
+          "参与拖拽方案的选型， 选用 sortable",
+          "参与 editor 组的组件开发（页面编辑器组件、表单编辑器组件）基于 AntD",
+          "主题色及主题组件的开发， 使用 CSS-in-JS 方案"
+        ]
+      },
+      {
+        "proj": "NPM @21epub/epub-ruler 标尺组件",
+        "tasks": ["用于 epub360 H5 编辑器的标尺组件", "基于 canvas 实现了 sketch ruler 的大部分功能", "私有仓库"]
+      },
+      {
+        "proj": "hentaimiao.me 个人站点",
+        "tasks": ["使用 vuepress 搭建的个人博客", "[[项目地址]](https://github.com/hentai-miao/hentai-miao.github.io)"]
+      },
+      {
+        "proj": "meow-notion",
+        "date": "2021 年 3 月- future",
+        "tasks": [
+          "以 Notion 为 CMS， Next.js 驱动的建站工具",
+          "[[项目地址]](https://github.com/meow-notion)",
+          "未完待续"
+        ]
+      }
+    ]
+  }
+}
